@@ -1,2 +1,2 @@
 # FTP
-The FTP server
+The FTP client
