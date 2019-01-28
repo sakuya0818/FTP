@@ -1,2 +1,2 @@
 # FTP
-The FTP client
+QT The FTP client
